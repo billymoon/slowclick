@@ -1,0 +1,26 @@
+{
+    "name": "slowclick",
+    "title": "Slowclick",
+    "description": "jQuery plugin for supporting slow clicks - where the user has to press and hold more deliberately.",
+    "keywords": [
+        "slow",
+        "click"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Billy Moon"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/billymoon/slowclick/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/jquery/jquery-color/issues",
+    "homepage": "https://github.com/billymoon/slowclick",
+    "docs": "https://github.com/billymoon/slowclick",
+    "download": "https://github.com/billymoon/slowclick/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
